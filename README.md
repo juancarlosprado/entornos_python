@@ -1,8 +1,7 @@
 #GAME PROJECT
 
 Para poder ejecutar el juego debes de realizar los siguientes pasos
-
-´´´ sh
+``` sh
 cd game
 python3 main.py
-´´´
+```
