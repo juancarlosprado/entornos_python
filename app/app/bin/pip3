@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/home/juanca/Documentos/Python/app/app/bin/python3
+=======
+#!/home/juanca2910/entorno_python/app/app/bin/python3
+>>>>>>> 95be8fd8983522af1621fe554d573c5e94f989c1
 # -*- coding: utf-8 -*-
 import re
 import sys
